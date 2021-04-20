@@ -1,0 +1,11 @@
+.social {
+    display: flex;
+    text-align: start;
+}
+
+.social > .social-paragraph {
+    font-family: 'Jost', sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    color: #153243;
+}

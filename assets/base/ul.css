@@ -1,0 +1,8 @@
+.container-about > .container > .ul-about h2, .ul-margin > li {
+    margin-bottom: 15px;
+}
+
+.container-about > .container > .ul-about li {
+    font-size: 14px;
+    font-style: italic;
+}

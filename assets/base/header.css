@@ -1,0 +1,11 @@
+.navbar > .navbar-brand {
+    font-family: 'Jost', sans-serif;
+    font-size: 35px;
+    color: #153243;
+}
+
+.navbar-nav .nav-link {
+    font-family: 'Jost', sans-serif;
+    font-size: 18px;
+    color: #153243;
+}

@@ -1,0 +1,805 @@
+.full-container > .container > .main-header > .menu-header > .navbar .logo-fotoz {
+    position: relative;
+}
+
+.photo > .main-photo {
+    position: relative;
+    margin-top: 30px;
+    width: 485px;
+    height: 700px;
+    object-fit: contain;
+}
+
+.photo .img-rotate {
+    position: absolute;
+    top: 830px;
+    left: 515px;
+}
+
+.container > .row > .services-product {
+    margin-top: 65px;
+    align-items: center;
+    text-align: center;
+}
+
+.hire-container > .row .woman-camera {
+    width: 432px;
+    height: 582px;
+}
+
+.hire-container > .row > .why-hire > .client-status {
+    margin-top: 245px;
+}
+
+.hire-container > .row > .woman-train img{
+    width: 302px;
+    height: 201px;
+}
+
+.full-container > .container  .photo > .man-yellow {
+    position: relative;
+    width: 485px;
+    height: 703px;
+    top: -98px;
+}
+
+.container-team > .container > .row  .photo-man, .photo-woman2 {
+    width: 300px;
+    height: 285px;
+}
+
+.container-team > .container > .row  .photo-woman {
+    width: 300px;
+    height: 400px;
+}
+
+.container-team > .container > .row > .container-member .social-media {
+    margin-left: 7px;
+}
+
+.container-team > .container > .row > .container-member .social-media-position {
+    position: relative;
+    top: -100px;
+}
+
+.container-feedback > .container .photo-feedback {
+    width: 432px;
+    height: 489px;
+}
+
+.container-feedback > .container .photo-aspas .aspas {
+    position: relative;
+    margin-top: 100px;
+    left: 430px;
+}
+@media (max-width: 1392px) {
+    .full-container > .container .photo > .man-yellow{
+        width: 100%;
+    }
+
+    .container-team > .container > .row .photo-woman {
+        width: 100%;
+    }
+
+    .container-team > .container > .row .photo-man, .photo-woman2 {
+        width: 100%;
+    }
+}
+
+@media (max-width: 1382px) {
+    .container-team > .container > .row .photo-man, .photo-woman2 {
+        width: 100%;
+    }
+}
+
+@media (max-width: 1275px) {
+    .container-feedback > .container .photo-aspas .aspas {
+        display: none;
+    }
+}
+
+@media (max-width: 1240px) {  
+    
+    .photo > .main-photo {
+        width: 100%;
+        object-fit: cover;
+        margin: auto 0;
+    }
+
+    .photo > .scroll-p {
+        
+    }
+
+    .container-about .btn-hire {
+        right: 130px;
+    }
+
+    /* Inicio container portfolio */
+    .full-container > .container .photo > .woman-white {
+        width: 100%;
+        object-fit: cover;
+    }
+
+    .full-container > .container .photo > .man-yellow {
+        width: 100%;
+    }
+
+    .full-container > .container .project-text-button .project-legend-align {
+        left: 40px;
+    }
+
+    .full-container > .container .project-paragraph {
+        margin-top: 0;
+    }
+
+    .full-container > .container .project-paragraph .project {
+        margin-left: 0;
+    }
+
+    .full-container > .container > .photo-projects .project-text-button .btn-portfolio {
+        font-size: 23px;
+        left: 63px;
+    }
+    /* Fim container portfolio */
+
+    /* Inicio container team */
+    .container-team > .container > .row .photo-man, .photo-woman2 {
+        width: 100%;
+        object-fit: contain;
+    }
+
+    .container-team > .container > .row .photo-woman {
+        width: 100%;
+        object-fit: contain;
+    }
+
+    .container-team > .container > .row > .container-member .social-media-position{
+        top: -135px;
+    }
+    /* Fim container team */
+
+    /* Inicio container feedback */
+    .container-feedback > .container .photo-aspas .aspas {
+        left: 300px;
+    }
+
+    .container-feedback > .container > .container-photo {
+        right: auto;
+    }
+    /* Fim container feedback */
+}
+
+@media (max-width: 1199px) {
+
+    /* Inicio container about e menu */
+    .photo > .scroll-p {
+        top: 627px;
+        left: 350px;
+    }
+
+    .photo .img-rotate {
+        top: 730px;
+        left: 464px;
+    }
+
+    .container-about > .btn-hire button {
+        top: -75px;
+        left: 151px;
+    }
+    /* Fim container about e menu */
+
+    /* Container services e hire */
+    .hire-container {
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .container-services .hire-paragraph {
+        justify-content: center;
+        text-align: center;
+    }
+
+    .hire-container > .row > .title h2 {
+        width: 100%;
+        padding: 0;
+    }
+
+    .hire-container > .row > .title p {
+        width: 100%;
+        padding: 0;
+    }
+
+    .hire-container > .row > .woman-train {
+        justify-content: center;
+        right: 0;
+    }
+    /* Fim container services e hire */
+
+    /* Inicio portfolio */
+    .container-portfolio {
+        margin-top: 50px;
+        height: auto;
+    }
+
+    .container-portfolio .photo {
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+
+    .full-container > .container .project-paragraph {
+        text-align: center;
+    }
+
+    .full-container > .container .project-text-button .project-legend {
+        display: none;
+    }
+
+    .full-container > .container .photo > .woman-white {
+        width: auto;
+    }
+
+    .full-container > .container .photo > .man-yellow {
+        width: auto;
+        top: 0;
+    }
+
+    .full-container > .container > .photo-projects .project-text-button .btn-portfolio {
+        top: 85px;
+        left: 0;
+    }
+    /* Fim portfolio */
+
+    /* Inicio container team */
+    .container-team {
+        margin-top: 50px;
+    }
+
+    .container-team .container-woman2 {
+        top: -50px;
+    }
+    /* Fim container team */
+
+    /* Inicio container logo */
+
+    .client-logo {
+        justify-content: center;
+    }
+
+    /* Fim container logo */
+
+    /* Inicio Contianer feedback */
+
+    .container-feedback {
+        padding-bottom: 0;
+    }
+
+    .container-feedback > .container > .photo-aspas {
+        display: none;
+    }
+
+    .container-feedback > .container > .container-cite {
+        top: 400px;
+    }
+
+    .container-feedback > .container > .container-photo {
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        align-content: center;
+        right: auto;
+        top: -300px;
+    }
+
+    /* Fim container feedback */
+}
+
+@media (max-width: 1190px) {
+    .client-logo {
+        display: none;
+    }
+
+    .container-feedback {
+        margin-top: 0;
+    }
+}
+
+@media (max-width: 992px) { 
+ 
+    /* Menu superior */
+
+    .photo > .scroll-p {
+        display: none;
+    }
+
+    .photo .img-rotate {
+        display: none;
+    }
+
+    .container-about .btn-hire {
+        right: 0px;
+    }
+
+    .container-about > .btn-hire button {
+        top: 0;
+    }
+
+    /* Fim menu superior */
+
+    /* Inicio portfolio */
+
+    .container-services .hire-paragraph {
+        position: relative;
+        margin: 0 auto;
+    }
+
+    .container-services .why-hire {
+        display: none;
+    }
+
+    .hire-container > .row > .title h2{
+        width: auto;
+        text-align: center;
+    }
+
+    .hire-container > .row > .title p {
+        width: auto;
+    }
+
+    .hire-container > .row > .woman-train {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        right: auto;
+        margin-top: 50px;
+    }
+
+    /* Fim portfolio */
+
+    /* Inicio container projetos e servicos */
+
+    .hire-container {
+        margin-top: 50px;
+    }
+
+    .full-container > .container .project-text-button .project-legend{
+        display: none;
+    }
+
+    .full-container > .container > .photo-projects .project-text-button .btn-portfolio{
+        display: inline;
+        margin-top: 30px;
+    }
+
+    .container-services .woman {
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        align-content: center;
+        margin-bottom: 50px;
+    }
+
+    /* Fim container projetos e servicos */
+
+    /* Inicio portfolio */
+    .full-container > .container .photo {
+        margin: 0 auto;
+    }
+
+    .full-container > .container .photo > .man-yellow {
+        top: auto;
+    }
+    /* Fim portfolio */
+
+    /* Inicio container Team */
+    .container-portfolio {
+        height: auto;
+    }
+    /* Fim container team */
+    
+    /* Inicio logo cliente */
+    .client-logo {
+        display: none;
+    }
+    /* Fim logo client */
+
+    /* Inicio container feedback */
+
+    .container-feedback > .container .photo-aspas .aspas {
+        display: none;
+    }
+
+    .container-feedback > .container > .container-photo {
+        right: auto;
+        display: flex;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        position: relative;
+    }
+
+    /* Fim container feedback */
+    
+}
+
+@media (max-width: 991px) {
+    .navbar > .btn-cv {
+        display: none;
+    }
+}
+
+@media (max-width: 768px) {  
+    
+    /* Menu superior */
+    .navbar > .btn-cv {
+        display: none;
+    }
+
+    .navbar-collapse {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        text-align: right;
+    }
+
+    .container-navbar {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .full-container > .container > .main-header > .menu-header > .navbar .logo-fotoz {
+        top: 0;
+    }
+
+    .container-about > .content-title {
+        margin-top: 50px;
+    }
+
+    .container-main .btn-hire {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .container-services {
+        margin: 0;
+    }
+
+    .container-about > .btn-hire button {
+        position: relative;
+    }
+
+    /* Fim menu Superior */
+
+    /* Inicio container services */
+
+    .container-services .why-hire {
+        display: none;
+    }
+
+    .container-services .woman {
+        display: flex;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .container-services .hire-paragraph {
+        text-align: center;
+    }
+
+    .hire-container > .row > .title p {
+        padding: 0;
+    }
+
+    .hire-container > .row > .woman-train img {
+        display: none;
+    }
+    /* Fim container services */
+
+    /* Inicio Container Portfolio */
+    .container-portfolio .photo-projects {
+        margin: 0 auto;
+    }
+
+    .full-container > .container .project-text-button .project-legend{
+        display: none;
+    }
+    /* Fim container portfolio */
+
+    /* Inicio Container Feedback */
+    .container-feedback > .container .photo-aspas .aspas {
+        display: none;
+    }
+
+    .container-feedback > .container > .container-photo {
+        right: auto;
+        display: flex;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        position: relative;
+    }
+    /* Fim container Feedback */
+}
+
+@media (max-width: 744px) {
+    .photo > .main-photo {
+        display: none;
+    }
+
+    /* Container Services */
+    .container-services .woman {
+        display: none;
+    }
+
+    .container > .row > .services {
+        margin-top: 50px;
+    }
+
+    .hire-container > .row > .btn-start {
+        margin-top: 0;
+    }
+
+    /* Fim container services */
+
+    /* Inicio container porfolio */
+
+    .full-container > .container .photo {
+        margin: 50px 0;
+    }
+
+    /* Fim container porfolio */
+
+    /* Inicio container feedback  */
+    .container-feedback > .container > .container-cite {
+        top: 450px;
+    }
+    /* Fim container feedback */
+
+}
+
+@media (max-width: 576px) {
+    .main-header {
+        position: fixed;
+        border-bottom: 1px solid #a6a7a9;
+        z-index: 2;
+        right: 0;
+        left: 0;   
+        border-radius: 0;
+        top: 0;
+        border-width: 0 0 1px;
+    }
+
+   
+    
+    .navbar > .btn-cv {
+        display: none;
+    }
+
+    .navbar-collapse {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        text-align: right;
+    }
+
+    .container-navbar {
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    .full-container > .container > .main-header > .menu-header > .navbar .logo-fotoz {
+        top: 0;
+    }
+
+    .container-about > .content-title {
+        margin-top: 90px;
+    }
+
+    .container-main .photo {
+        display: none;
+    }
+
+    .full-container .container .container-about .photo {
+        margin: 0;
+    }
+
+    .container-main .btn-hire {
+        right: auto;
+    }
+
+    .container-about .btn-hire {    
+        justify-content: center;
+        align-items: center;
+    }
+
+    .container-about > .btn-hire button {
+        left: auto;
+        right: auto;
+    }
+
+    .container-services {
+        margin: 0;
+    }
+
+
+    /* Inicio container Servicos*/
+    .container-services .container-services-positon {
+       position: relative;
+        margin: 0 auto;
+    }
+
+    .why-hire {
+        display: none;
+    }
+
+    .container-services .woman {
+        display: none;
+    }
+
+    .hire-container > .row > .woman-train {
+        display: none;
+    }
+
+    .hire-container {
+        margin-top: 50px;
+    }
+
+    .hire-container > .row > .title h2 {
+        font-size: 3.5rem;
+        padding-left: 0;
+        width: 250px;
+        margin: 0 auto;
+    }
+
+    .hire-container > .row > .title p {
+        padding-left: 0;
+        width: 250px;
+        margin: 0 auto;
+        margin-bottom: 35px;
+    }
+
+    .hire-container > .row > .btn-start {
+        margin-top: 0;
+    }
+
+    .hire-container > .row > .btn-start > .start {
+        font-size: 19px;
+        width: 200px;
+    }
+    /* Fim Servicos*/
+
+    /* Inicio container portfolio */
+    .container-portfolio {
+        height: auto;
+    }
+
+    .full-container > .container .project-text-button .project-legend {
+        display: none;
+    }
+
+    .full-container > .container .photo {
+        margin: 50px 0;
+    }
+    /* Fim container portfolio */
+
+    /* Inicio container projetc */
+    .photo-projects {
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    .full-container > .container .photo > .woman-white {
+        width: 100%;
+        height: auto;
+    }
+
+    .full-container > .container .project-paragraph {
+        margin-top: 0;
+    }
+
+    .full-container > .container .project-paragraph .project {
+        margin: 0;
+    }
+
+    .full-container > .container .project-text-button {
+        top: 0;
+        left: 0;
+    }
+
+    .full-container > .container > .photo-projects .project-text-button .btn-portfolio {
+        top: 0;
+        left: 0;
+        font-size: 25px;
+    }
+    /* Fim container projetc */
+
+    /* Container team */
+
+    .container-team > .container > .row .photo-man, .photo-woman2 {
+        width: 100%;
+        height: auto;
+    }
+
+    .container-team > .container > .row .photo-woman {
+        width: 100%;
+        height: auto;
+        margin-top: 10px;
+    }
+
+    .container-team > .container > .row .container-woman2 {
+        top: -70px;
+    }
+    /* Fim container team */
+
+    /* Container Feedback */
+
+    .container-feedback > .container > .container-photo {
+        display: none;
+    }
+
+    .container-feedback > .container > .photo-aspas {
+        display: none;
+    }
+
+    .container-feedback > .container > .container-cite {
+        margin-top: 0;
+        top: 0;
+    }
+
+    .container-feedback > .row .cite-feedback {
+        font-size: 20px;
+    }
+
+    .container-feedback > .row .feedback-name {
+        margin-top: 15px;
+        font-size: 15px;
+    }
+
+    .container-feedback > .row .feedback-profession {
+        font-size: 12px;
+    }
+    /* Fim container feedback */
+
+    /* Inicio container blog */
+    .container-blog .container-blog-positon {
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .container-blog .trending {
+        display: none;
+    }
+
+    .container-blog .btn-blog .btn {
+        width: 100%;
+        padding: 0 15px;
+    }
+    /* Fim container blog */
+}
+
+@media (max-width: 520px) {
+
+    /* Inicio container services */
+
+    .hire-container > .row > .title h2 {
+        width: 100%;
+    }
+
+    .hire-container > .row > .title p {
+        width: 100%;
+    }
+    /* Fim container services */
+
+    /* Inicio container portfolio */
+    .full-container > .container .photo > .woman-white, .man-yellow {
+        object-fit: contain;
+        width: 100%;
+    }
+
+    .full-container > .container .photo-man-yellow {
+        display: none;
+    }
+}

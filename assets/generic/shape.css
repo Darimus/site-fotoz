@@ -1,0 +1,7 @@
+.container  .shape {
+    display: flex;
+    margin: 0 auto;
+    position: absolute;
+    align-items: center;
+    text-align: center;
+}

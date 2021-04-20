@@ -1,0 +1,93 @@
+/* body h2{
+    font-family: 'Jost', sans-serif;
+    font-size: 43px;
+    color: #153243;
+} */
+
+.container > .row > .services {
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    align-items: center;
+    font-size: 43px;
+    margin-top: 200px;
+}
+
+.row > .services-product h2 {
+    margin-top: 25px;
+    margin-bottom: 15px;
+    font-size: 28px;
+}
+
+.hire-container > .row > .title h2 {
+    font-size: 3.5rem;
+    padding-left: 19px;
+    width: 400px;
+}
+
+.full-container > .container-portfolio > .title-project {
+    position: relative;
+    top: -25px;
+}
+
+.full-container > .container-portfolio > .title-project > .projects {
+    font-family: 'Jost', sans-serif;
+    font-size: 43px;
+    color: #153243;
+}
+
+.container-team > .container > .title-team {
+    align-items: center;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.container-team > .container > .row .team-member {
+    font-size: 25px;
+    font-family: 'Jost', sans-serif;
+    color: #153243;
+    margin-top: 15px;
+}
+
+.container-team > .container > .row .team-expertise {
+    font-size: 15px;
+    font-family: 'Jost', sans-serif;
+    color: #153243;
+    font-style: italic;
+}
+
+.container-team > .container > .row .social-media-position h2 {
+    color: white;
+    margin-top: 8px;
+}
+
+.color-blue > .title-have-project {
+    color: white;
+}
+
+.full-container > .title-feedback {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.container-blog .title-blog {
+    display: flex;
+    margin-top: 100px;
+    margin-bottom: 30px;
+    text-align: center;
+    align-items: center;
+}
+
+.container-blog .title-blog .heading-blog {
+    font-size: 2rem;
+}
+
+.container-form .heading-form {
+    color: #fff;
+    font-style: normal;
+    margin: 100px 0 30px 0;
+    font-size: 34px;
+}

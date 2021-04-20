@@ -1,0 +1,108 @@
+body button {
+    font-family: 'Jost', sans-serif;
+    font-size: 18px;
+    box-sizing: border-box;
+    border: none;
+    color: white;
+    background-color: #153243;
+}
+
+.navbar > .btn-cv {
+    width: 194px;
+    height: 55px;
+    font-size: 18px;
+
+}
+
+.container-about > .btn-hire button {
+    position: absolute;
+    width: 185px;
+    height: 130px;
+    top: -15px;
+    left: 15px;
+    font-size: 18px;
+}
+
+.hire-container > .row > .btn-start > .start {
+    width: 294px;
+    height: 65px;
+    text-align: center;
+    align-items: center;
+    font-weight: 400;
+    font-size: 22px;
+}
+
+.full-container > .container > .photo-projects .project-text-button .btn-portfolio {
+    height: 150px; 
+    position: relative;
+    font-family: 'Jost', sans-serif;
+    font-size: 27px;
+    text-align: center;
+    align-items: center;
+    left: 64px;
+    top: -24px;
+}
+
+.color-blue > .btn-start-project {
+    background-color: #fff;
+    color: #153243;
+    height: 50px;
+    width: 200px;
+    margin-top: 15px;
+}
+
+.container-blog .btn-primary {
+    background-color: transparent;
+    color: #153243;
+    border-radius: 0;
+    border-color: #153243;
+    font-size: 20px;
+}
+
+.container-blog .f-btn {
+    display: flex;
+    justify-content: space-between;
+}
+
+.container-blog .btn-position {
+    display: flex;
+    justify-content: space-between;
+}
+
+.container-blog .btn-blog {
+    align-items: center;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 100px;
+}
+
+.container-blog .btn-blog .btn {
+    font-family: 'Jost', sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 27px;
+    box-sizing: border-box;
+    border: none;
+    color: white;
+    background-color: #153243;
+    width: 300px;
+    height: 70px;
+}
+
+.container-blog .card .btn-primary {
+    font-style: normal;
+}
+
+.container-form .btn-primary {
+    background-color: #5EC2FE;
+    color: #153243;
+    width: 200px;
+    border: 0;
+    border-radius: 0;
+    font-size: 20px;
+    margin-bottom: 100px;
+}

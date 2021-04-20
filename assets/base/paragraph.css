@@ -1,0 +1,129 @@
+.body p, h2{
+    font-family: 'Jost', sans-serif;
+    color: #153243;
+}
+
+.content-title > .about {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    color: #153243;
+}
+
+.content-title > .name-person {
+    font-family: 'Jost', sans-serif;
+    font-size: 35px;
+    color: #153243;
+}
+
+.photo > .scroll-p {
+    display: inline-block;
+    position: absolute;
+    font-family: 'Jost', sans-serif;
+    color: #153243;
+    font-size: 22px;
+    height: 30px;
+    width: 250px;
+    left: 402px;
+    top: 730px;
+    transform: rotate(90deg);
+}
+
+.row .stock-photography {
+    text-align: center;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.hire-container > .row > .title p {
+    font-style: italic;
+    font-size: 22px;
+    width: 400px;
+    padding-left: 90px;
+}
+
+.full-container > .container  .project-paragraph .project {
+    font-family: 'Jost', sans-serif;
+    margin-left: 60px;
+    color: #153243;
+    font-size: 18px;
+    font-style: italic;
+}
+
+.full-container > .container .project-text-button .project-legend {
+    font-family: 'Jost', sans-serif;
+    color: #153243;
+    font-size: 28px;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+}
+
+.full-container > .container .project-text-button .project-legend-align {
+    left: 100px;
+}
+
+.container-feedback > .row .cite-feedback {
+    font-family: 'Open Sans', sans-serif;    
+    color: #153243;
+    padding-left: 0;
+    font-size: 28px;
+    font-style: italic;
+    font-weight: 600;
+}
+
+.container-feedback > .row .feedback-name {
+    font-family: 'Jost', sans-serif;
+    color: #153243;
+    font-size: 28px;
+    margin-top: 30px;
+    margin-bottom: 0;
+}
+
+.container-feedback > .row .feedback-profession {
+    font-family: 'Open Sans', sans-serif;    
+    color: #153243;
+    font-size: 18px;
+    font-weight: 500;
+    font-style: italic;
+}
+
+.container-blog .date {
+    text-align: end;
+}
+
+.container-blog .date1 {
+    padding-left: 0;
+}
+
+.container-blog .by-name {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.container-blog  .card-body p {
+    font-family: 'Jost', sans-serif;
+    color: #153243;
+}
+
+.container-blog .date, .date1 {
+    font-style: italic;
+}
+
+.container-blog .card-text {
+    font-size: 25px;
+}
+
+.container-blog .trending {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: absolute;
+    top: 30px;
+    margin-left: 30px;
+    width: 130px;
+    height: 40px;
+    background-color: #fff;
+    text-align: center;
+}

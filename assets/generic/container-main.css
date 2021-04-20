@@ -1,0 +1,196 @@
+.full-container {
+    background-color: #f8f9fa;
+}
+
+.full-container .container .container-navbar .navbar-nav {
+    align-items: flex-start;
+    justify-content: center;
+    text-align: center;
+}
+
+.container-about > .content-title {
+    margin-top: 100px;
+}
+
+.row {
+    justify-content: space-evenly;
+}
+
+.container-about .btn-hire {
+    display: flex;
+    right: 187px;
+}
+
+.hire-container {
+    margin-top: 129px;
+}
+
+.hire-container > .row > .woman-train {
+    display: flex;
+    justify-content: flex-end;
+    right: -63px;
+}
+
+.hire-container > .row > .btn-start {
+    align-items: center;
+    text-align: center;
+    margin-top: 69px;
+}
+
+.container-portfolio {
+    margin-top: 130px;
+    height: 780px;
+}
+
+.full-container > .container .project-paragraph {
+    margin-top: 136px;
+}
+
+.full-container > .container .project-text-button {
+    top: -90px;
+    left: 3px;
+}
+
+.container-team {
+    margin-top: 150px;
+}
+
+.container-team .container-member {
+    align-items: center;
+    text-align: center;
+}
+
+.color-blue {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #153243;
+    height: 221px;
+    align-items: center;
+    text-align: center;
+}
+
+.client-logo {
+    display: flex;
+    align-content: space-between;
+    align-items: center;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.container-feedback {
+    margin-top: 100px;
+    padding-bottom: 100px;
+}
+
+.container-feedback > .title-feedback {
+    padding-top: 50px;
+}
+
+.container-feedback > .container {
+    display: flex;
+    align-content: center;
+}
+
+.container-feedback > .container > .photo-aspas {
+    top: -60px;
+}
+
+.container-feedback > .container > .container-cite {
+    margin-top: 100px;
+    z-index: 1;
+}
+
+.container-feedback > .container > .container-photo {
+    right: 150px;
+}
+
+.container-feedback .carousel-indicators {
+    margin: 0;
+    padding-bottom: 10px;
+}
+
+.container-feedback .carousel-indicators li{
+    position: relative;
+    top: 10px;
+}
+
+ .carousel-control-prev-icon,
+ .carousel-control-next-icon {
+   height: 100px;
+   width: 100px;
+   outline: black;
+   background-size: 100%, 100%;
+   border-radius: 50%;
+   background-image: none;
+}
+ 
+.container-feedback .carousel-indicators {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.container-feedback > .container .carousel {
+    width: 432px;
+}
+
+.container-blog .card-img, .card-img-top, .card {
+    border-radius: 0;
+    border: 0;
+    background-color: #f8f9fa;
+}
+
+.container-blog .teste-btn {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+
+.container-form {
+    background-color: #153243;
+}
+
+.container-form > .form-center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #fff;
+    font-style: italic;
+}
+
+.container-form .btn-position {
+    position: relative;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.container-about > .container{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.container-about > .container > .ul-about {
+    justify-content: space-around;
+}
+
+.container-footer .social-media {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.container-footer > .container {
+    margin-top: 120px;
+}
+
+.container-footer .logo-media {
+    margin-left: 30px;
+    margin-bottom: 30px;
+}
+
+.container-footer > .container > .container-copy {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
